@@ -2,7 +2,7 @@
 
 ---
 
-SimpleReactApp is a simple project created exclusive for learning purposes and nothing more.
+SimpleReactApp is a simple project created solely for learning purposes and nothing more.
 
 
 
@@ -18,4 +18,4 @@ I will document this project, in the near future, maybe.
 
 ---
 
-If you have any tips that might help, such as documentation, design, or best practices, feel free to share :)
+If you have any tips that might help, such as documentation, design, or good practices, feel free to share :)
